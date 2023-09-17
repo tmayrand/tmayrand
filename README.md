@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm [Troy](https://troy.mayrand.xyz), a data engineer turned full stack developer at [MassMutual](https://github.com/massmutual) where I build tools keep our Operations group moving.
+I'm [Troy](https://troy.mayrand.xyz), a data engineer turned full stack developer at [MassMutual](https://github.com/massmutual) where I build tools to keep our Operations group moving.
 
 <p align="left">
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" />
