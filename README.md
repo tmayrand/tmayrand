@@ -19,5 +19,3 @@ I'm [Troy](https://troy.mayrand.xyz), a data engineer turned full stack develope
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ubuntu.svg" />
 </p>
-
-![GitHub followers](https://img.shields.io/github/followers/tmayrand?label=follow&style=social)
